@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ecogl\\Desktop\\SGit\\HW3\\Homwork3\\Homework3\\Homework3.csproj": {}
+    "C:\\Users\\User\\Desktop\\Нова папка\\Homwork3\\Homework3\\Homework3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ecogl\\Desktop\\SGit\\HW3\\Homwork3\\Homework3\\Homework3.csproj": {
+    "C:\\Users\\User\\Desktop\\Нова папка\\Homwork3\\Homework3\\Homework3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ecogl\\Desktop\\SGit\\HW3\\Homwork3\\Homework3\\Homework3.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Нова папка\\Homwork3\\Homework3\\Homework3.csproj",
         "projectName": "Homework3",
-        "projectPath": "C:\\Users\\ecogl\\Desktop\\SGit\\HW3\\Homwork3\\Homework3\\Homework3.csproj",
-        "packagesPath": "C:\\Users\\ecogl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ecogl\\Desktop\\SGit\\HW3\\Homwork3\\Homework3\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\Нова папка\\Homwork3\\Homework3\\Homework3.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Нова папка\\Homwork3\\Homework3\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ecogl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -54,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
