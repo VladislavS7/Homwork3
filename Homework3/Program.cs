@@ -12,6 +12,8 @@ namespace Homework3
             pass.PassToWork();
             StudentCard studentCard = new StudentCard();
             studentCard.ToString();
+            BussinesCard bs = new BussinesCard { one = 1, two = 2 };
+            bs.Show();
         }
     }
 }
