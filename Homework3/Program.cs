@@ -10,6 +10,8 @@ namespace Homework3
             m.GetCard();
             WorkPass pass = new WorkPass { id = 14444 };
             pass.PassToWork();
+            StudentCard studentCard = new StudentCard();
+            studentCard.ToString();
         }
     }
 }
