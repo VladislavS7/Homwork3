@@ -9,7 +9,10 @@ namespace Homework3
             Money m = new Money();
             m.GetCard();
             WorkPass pass = new WorkPass { id = 14444 };
-            pass.PassToWork();
+            pass.PassToWork(); 
+
+
+            BussinesCard bussines = new BussinesCard { one = 1, two = 2 }; 
         }
     }
 }
