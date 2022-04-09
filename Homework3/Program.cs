@@ -8,6 +8,8 @@ namespace Homework3
         {
             Money m = new Money();
             m.GetCard();
+            WorkPass pass = new WorkPass { id = 14444 };
+            pass.PassToWork();
         }
     }
 }
