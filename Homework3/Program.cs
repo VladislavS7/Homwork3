@@ -6,6 +6,8 @@ namespace Homework3
     {
         static void Main(string[] args)
         {
+            Money m = new Money();
+            m.GetCard();
         }
     }
 }
