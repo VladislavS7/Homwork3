@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Y2/PWPaBmKzJLvGDsEU/Vmtu+vVLlL3HFIsW7n9BSwdqcekbRS4wXV/GsUWQgf/H2u9hMwSYrW0deFYYtYWb/g==",
+  "dgSpecHash": "YMmT1Xw9A1c3ZzAmPVwV0wDy2WVIEctTvSnTXGYSULS7kclIS7aYl7M4XKFPj3AuJU6EbGCuFNoOl7YDUctMDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\Нова папка\\Homwork3\\Homework3\\Homework3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\vipmk\\Desktop\\Try3\\Homwork3\\Homework3\\Homework3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vipmk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\vipmk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\vipmk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\vipmk\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
